@@ -1,3 +1,4 @@
+# *Forked from Baker Team's RoseTTAFold*
 # *RoseTTAFold* 
 This package contains deep learning models and related scripts to run RoseTTAFold.  
 This repository is the official implementation of RoseTTAFold: Accurate prediction of protein structures and interactions using a 3-track network.
